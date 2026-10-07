@@ -93,7 +93,7 @@ Olá! Eu sou a **Isabella** 🌸
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isamoreira&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+<img src="https://ghchart.rshah.org/ff91a4/isamoreira" alt="Gráfico de contribuições" width="95%" />
 
 </div>
 
