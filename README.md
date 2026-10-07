@@ -30,7 +30,7 @@ Olá! Eu sou a **Isabella** 🌸 e transformo dados em informação que pessoas 
 
 ## ⭐ Projeto em destaque: Escolha Fácil
 
-> **Uma frase de impacto:** Um site que mostra em linguagem simples, com fonte para conferir, o que está em jogo no 2º turno de 2026, para quem ainda tem dúvida em quem votar.
+> **Um site que mostra em linguagem simples, com fonte para conferir, o que está em jogo no 2º turno de 2026, para quem ainda tem dúvida em quem votar.**
 
 <p align="center"><img src="https://raw.githubusercontent.com/isamoreira/escolha-facil/main/assets/og.png" width="80%" alt="Escolha Fácil: perguntas simples com respostas que têm fonte" /></p>
 
